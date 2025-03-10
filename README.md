@@ -1,20 +1,32 @@
-## Hi there 👋
+# Welcome Weary Traveller
 
-<!--
-**OctocatRush/OctocatRush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+                           (   )
+                          (    )
+                           (    )
+                          (    )
+                            )  )
+                           (  (                  /\
+                            (_)                 /  \  /\
+                    ________[_]________      /\/    \/  \
+           /\      /\        ______    \    /   /\/\  /\/\
+          /  \    //_\       \    /\    \  /\/\/    \/    \
+   /\    / /\/\  //___\       \__/  \    \/
+  /  \  /\/    \//_____\       \ |[]|     \
+ /\/\/\/       //_______\       \|__|      \
+/      \      /XXXXXXXXXX\                  \
+        \    /_I_II  I__I_\__________________\
+               I_I|  I__I_____[]_|_[]_____I
+               I_II  I__I_____[]_|_[]_____I  
+               I II__I  I     XXXXXXX     I
+            ~~~~~"   "~~~~~~~~~~~~~~~~~~~~~~~~
+Would you like to come in and embrace the warmth of the hearth?
+> Yes
+  No
+```
 
-Here are some ideas to get you started:
+## 📜 Strides towards Quests
+![My Stats](https://github-readme-stats-two-delta-19.vercel.app/api?username=octocatrush&show_icons=true&rank_icon=github&bg_color=076b5e,079895,00c2d7&title_color=ffebc8&text_color=c7fff8&border_color=08283b&border_radius=20&icon_color=ffe0c7&include_all_commits=true&custom_title=Progress%20So%20Far...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![My Stats](https://github-readme-stats-two-delta-19.vercel.app/api?username=octocatrush&show_icons=true&rank_icon=github&bg_color=076b5e,079895,00c2d7\&title_color=ffebc8\&text_color=c7fff8\&border_color=08283b&icon_color=ffe0c7)
-
-![Top Langs](https://github-readme-stats-two-delta-19.vercel.app/api/top-langs/?username=octocatrush&layout=compact&&bg_color=076b5e,079895,00c2d7\&title_color=ffebc8\&text_color=c7fff8\&border_color=08283b)
+## 🗡️ Weapons Wielded
+![Top Langs](https://github-readme-stats-two-delta-19.vercel.app/api/top-langs/?username=octocatrush&layout=compact&bg_color=076b5e,079895,00c2d7&title_color=ffebc8&text_color=c7fff8&border_color=08283b&border_radius=20&card_width=465&card_height=197&custom_title=Many%20Weapons%20Indeed...&langs_count=8)
