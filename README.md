@@ -20,6 +20,7 @@
                I_II  I__I_____[]_|_[]_____I  
                I II__I  I     XXXXXXX     I
             ~~~~~"   "~~~~~~~~~~~~~~~~~~~~~~~~
+
 Would you like to come in and embrace the warmth of the hearth?
 > Yes
   No
