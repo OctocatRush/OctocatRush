@@ -1,8 +1,6 @@
 # Welcome Weary Traveller
 
 ```
-                           (   )
-                          (    )
                            (    )
                           (    )
                             )  )
